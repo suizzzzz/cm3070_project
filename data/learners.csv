@@ -1,0 +1,181 @@
+learner_id,level,weak_topic,strong_topic,prior_avg_score,engagement_level,preferred_modality,study_goal
+U001,sec4,probability,statistics,73,low,notes,exam practice
+U002,sec3,geometry,trigonometry,66,low,video,concept mastery
+U003,sec3,calculus,statistics,75,medium,worked example,concept mastery
+U004,sec4,statistics,calculus,86,medium,notes,concept mastery
+U005,sec3,statistics,algebra,65,medium,notes,concept mastery
+U006,sec4,statistics,probability,65,low,practice set,concept mastery
+U007,sec3,algebra,probability,86,medium,practice set,exam practice
+U008,pre-u,calculus,statistics,77,high,worked example,catch up
+U009,sec4,geometry,probability,62,medium,notes,exam practice
+U010,pre-u,probability,calculus,74,low,quiz,catch up
+U011,sec3,algebra,calculus,62,medium,quiz,exam practice
+U012,sec3,probability,algebra,62,low,notes,catch up
+U013,pre-u,statistics,geometry,70,low,video,catch up
+U014,pre-u,calculus,trigonometry,45,medium,worked example,revision
+U015,sec4,geometry,probability,47,high,video,catch up
+U016,sec4,calculus,algebra,61,medium,worked example,catch up
+U017,pre-u,probability,statistics,55,low,worked example,concept mastery
+U018,sec4,trigonometry,probability,71,low,worked example,exam practice
+U019,pre-u,statistics,calculus,57,low,worked example,concept mastery
+U020,sec3,probability,statistics,51,medium,practice set,revision
+U021,sec3,algebra,probability,85,medium,notes,revision
+U022,sec4,trigonometry,probability,65,low,worked example,exam practice
+U023,sec4,trigonometry,probability,68,medium,quiz,revision
+U024,pre-u,calculus,algebra,50,high,video,exam practice
+U025,pre-u,geometry,algebra,61,low,video,concept mastery
+U026,pre-u,geometry,algebra,69,low,notes,concept mastery
+U027,pre-u,calculus,algebra,54,low,worked example,exam practice
+U028,pre-u,trigonometry,geometry,72,high,video,concept mastery
+U029,pre-u,trigonometry,algebra,60,low,quiz,catch up
+U030,sec3,calculus,geometry,64,high,notes,revision
+U031,pre-u,statistics,trigonometry,60,high,video,revision
+U032,sec4,trigonometry,statistics,90,high,quiz,revision
+U033,sec3,probability,trigonometry,67,medium,worked example,revision
+U034,pre-u,calculus,trigonometry,55,medium,notes,catch up
+U035,pre-u,geometry,statistics,77,medium,practice set,catch up
+U036,pre-u,calculus,probability,53,high,quiz,exam practice
+U037,sec4,geometry,algebra,70,medium,notes,catch up
+U038,pre-u,probability,statistics,44,medium,quiz,revision
+U039,sec3,calculus,trigonometry,52,medium,notes,exam practice
+U040,sec4,trigonometry,calculus,70,high,quiz,revision
+U041,sec3,probability,geometry,76,low,worked example,catch up
+U042,pre-u,probability,geometry,70,medium,worked example,catch up
+U043,sec4,algebra,geometry,66,low,worked example,concept mastery
+U044,sec4,trigonometry,statistics,64,medium,practice set,exam practice
+U045,sec4,calculus,statistics,50,medium,worked example,exam practice
+U046,sec3,trigonometry,calculus,59,low,notes,exam practice
+U047,pre-u,algebra,statistics,62,low,notes,concept mastery
+U048,sec4,statistics,calculus,80,high,practice set,exam practice
+U049,sec4,algebra,trigonometry,72,low,quiz,concept mastery
+U050,pre-u,trigonometry,algebra,46,high,notes,exam practice
+U051,pre-u,algebra,geometry,71,medium,notes,catch up
+U052,pre-u,algebra,geometry,63,medium,worked example,catch up
+U053,sec3,calculus,trigonometry,59,low,quiz,catch up
+U054,sec4,algebra,geometry,75,medium,video,revision
+U055,pre-u,geometry,trigonometry,80,medium,video,concept mastery
+U056,sec4,algebra,statistics,79,high,practice set,concept mastery
+U057,sec4,probability,calculus,57,medium,quiz,catch up
+U058,pre-u,trigonometry,statistics,64,low,practice set,revision
+U059,sec4,geometry,trigonometry,71,high,video,concept mastery
+U060,pre-u,geometry,trigonometry,79,low,notes,revision
+U061,pre-u,calculus,probability,62,high,worked example,exam practice
+U062,sec4,algebra,trigonometry,65,high,quiz,catch up
+U063,sec4,algebra,trigonometry,54,high,practice set,concept mastery
+U064,pre-u,calculus,algebra,53,low,notes,exam practice
+U065,sec3,geometry,algebra,77,low,quiz,exam practice
+U066,sec4,calculus,algebra,84,high,quiz,catch up
+U067,pre-u,trigonometry,statistics,67,medium,worked example,revision
+U068,sec4,probability,algebra,80,high,quiz,exam practice
+U069,sec3,algebra,geometry,72,high,practice set,revision
+U070,pre-u,statistics,trigonometry,60,low,notes,catch up
+U071,sec4,probability,calculus,72,low,practice set,catch up
+U072,sec3,statistics,calculus,86,medium,quiz,catch up
+U073,pre-u,trigonometry,calculus,67,low,notes,exam practice
+U074,sec4,calculus,probability,86,high,worked example,revision
+U075,sec4,calculus,algebra,36,medium,quiz,revision
+U076,sec3,calculus,statistics,77,high,practice set,catch up
+U077,sec3,calculus,algebra,69,high,quiz,catch up
+U078,sec3,statistics,calculus,64,low,quiz,concept mastery
+U079,pre-u,trigonometry,probability,69,medium,video,revision
+U080,sec3,statistics,probability,44,high,notes,exam practice
+U081,pre-u,probability,algebra,65,medium,video,concept mastery
+U082,sec3,algebra,probability,72,high,notes,catch up
+U083,pre-u,statistics,trigonometry,85,high,quiz,catch up
+U084,sec3,calculus,probability,61,medium,practice set,concept mastery
+U085,pre-u,calculus,geometry,58,high,notes,revision
+U086,sec4,trigonometry,probability,61,high,quiz,revision
+U087,pre-u,trigonometry,calculus,78,high,worked example,concept mastery
+U088,sec4,calculus,statistics,71,medium,quiz,catch up
+U089,sec3,calculus,trigonometry,61,high,notes,catch up
+U090,sec3,geometry,probability,74,medium,worked example,catch up
+U091,sec4,calculus,geometry,69,low,notes,exam practice
+U092,sec3,algebra,probability,79,high,worked example,revision
+U093,sec4,statistics,geometry,59,high,notes,revision
+U094,sec4,calculus,trigonometry,64,high,worked example,revision
+U095,sec4,trigonometry,statistics,63,medium,worked example,revision
+U096,sec3,probability,algebra,50,high,quiz,concept mastery
+U097,sec4,statistics,algebra,71,low,video,catch up
+U098,sec3,geometry,calculus,71,low,quiz,revision
+U099,sec4,trigonometry,calculus,68,medium,notes,concept mastery
+U100,pre-u,probability,calculus,65,high,notes,concept mastery
+U101,pre-u,geometry,algebra,51,medium,practice set,concept mastery
+U102,sec3,calculus,statistics,62,low,worked example,exam practice
+U103,pre-u,calculus,trigonometry,63,low,worked example,exam practice
+U104,sec3,statistics,probability,58,low,worked example,exam practice
+U105,pre-u,probability,trigonometry,66,medium,quiz,catch up
+U106,sec4,trigonometry,geometry,72,medium,video,concept mastery
+U107,sec4,calculus,statistics,90,high,quiz,exam practice
+U108,sec4,algebra,probability,70,low,practice set,revision
+U109,sec4,probability,calculus,71,low,practice set,exam practice
+U110,pre-u,geometry,trigonometry,67,medium,notes,revision
+U111,sec4,statistics,algebra,44,medium,video,exam practice
+U112,sec3,statistics,geometry,67,medium,quiz,catch up
+U113,sec3,geometry,trigonometry,68,high,quiz,exam practice
+U114,sec4,geometry,calculus,95,medium,quiz,revision
+U115,sec3,calculus,algebra,65,low,worked example,exam practice
+U116,sec3,algebra,probability,71,medium,practice set,revision
+U117,pre-u,calculus,trigonometry,67,high,quiz,catch up
+U118,sec3,statistics,trigonometry,53,high,notes,catch up
+U119,pre-u,algebra,statistics,81,medium,practice set,concept mastery
+U120,pre-u,statistics,algebra,77,medium,quiz,catch up
+U121,sec3,algebra,trigonometry,77,low,quiz,catch up
+U122,sec3,algebra,geometry,57,high,notes,catch up
+U123,pre-u,calculus,trigonometry,84,high,practice set,catch up
+U124,sec4,probability,geometry,51,high,video,catch up
+U125,sec4,probability,calculus,75,low,quiz,concept mastery
+U126,sec3,calculus,probability,94,medium,video,exam practice
+U127,sec3,probability,trigonometry,56,medium,quiz,concept mastery
+U128,sec3,algebra,probability,61,high,notes,revision
+U129,sec3,algebra,calculus,69,low,practice set,concept mastery
+U130,sec3,algebra,statistics,61,high,notes,concept mastery
+U131,pre-u,trigonometry,geometry,49,low,quiz,concept mastery
+U132,sec4,geometry,statistics,68,low,video,revision
+U133,sec4,geometry,algebra,55,low,practice set,exam practice
+U134,sec4,algebra,trigonometry,73,low,notes,catch up
+U135,pre-u,probability,algebra,56,low,worked example,catch up
+U136,pre-u,trigonometry,statistics,86,low,worked example,concept mastery
+U137,pre-u,probability,algebra,58,high,practice set,exam practice
+U138,sec3,calculus,algebra,64,medium,worked example,catch up
+U139,sec4,statistics,algebra,77,high,worked example,revision
+U140,pre-u,algebra,calculus,53,low,video,concept mastery
+U141,pre-u,trigonometry,statistics,70,high,practice set,exam practice
+U142,pre-u,calculus,statistics,83,medium,worked example,catch up
+U143,pre-u,algebra,geometry,48,high,practice set,concept mastery
+U144,sec3,calculus,probability,70,medium,quiz,catch up
+U145,pre-u,calculus,probability,71,low,quiz,catch up
+U146,sec4,trigonometry,calculus,77,low,worked example,revision
+U147,sec3,algebra,geometry,53,medium,video,exam practice
+U148,sec3,geometry,statistics,52,high,practice set,exam practice
+U149,sec4,statistics,algebra,74,medium,worked example,revision
+U150,sec4,trigonometry,statistics,71,medium,video,concept mastery
+U151,sec3,geometry,probability,71,low,quiz,exam practice
+U152,pre-u,algebra,calculus,72,low,worked example,revision
+U153,sec3,probability,trigonometry,59,low,quiz,exam practice
+U154,sec3,trigonometry,calculus,70,low,notes,catch up
+U155,pre-u,algebra,trigonometry,71,high,video,revision
+U156,sec3,statistics,probability,59,medium,worked example,catch up
+U157,sec4,trigonometry,geometry,90,medium,quiz,revision
+U158,sec3,algebra,trigonometry,73,high,video,revision
+U159,pre-u,trigonometry,probability,53,medium,worked example,catch up
+U160,sec3,calculus,trigonometry,75,high,video,exam practice
+U161,sec4,calculus,algebra,56,high,practice set,catch up
+U162,sec3,probability,trigonometry,77,low,worked example,revision
+U163,sec4,algebra,trigonometry,81,low,notes,exam practice
+U164,sec3,trigonometry,calculus,58,low,worked example,catch up
+U165,sec4,geometry,trigonometry,79,high,notes,exam practice
+U166,pre-u,algebra,probability,72,low,worked example,revision
+U167,sec4,calculus,algebra,77,high,worked example,catch up
+U168,sec4,statistics,calculus,90,low,worked example,revision
+U169,pre-u,trigonometry,geometry,65,medium,quiz,revision
+U170,sec3,calculus,algebra,58,medium,practice set,catch up
+U171,sec4,probability,algebra,57,medium,quiz,concept mastery
+U172,sec3,trigonometry,geometry,58,high,video,concept mastery
+U173,pre-u,trigonometry,calculus,67,high,notes,concept mastery
+U174,sec4,algebra,trigonometry,72,low,notes,concept mastery
+U175,sec3,statistics,algebra,71,high,worked example,catch up
+U176,sec4,probability,statistics,77,high,practice set,exam practice
+U177,sec3,statistics,trigonometry,68,medium,video,catch up
+U178,sec4,calculus,trigonometry,85,high,video,exam practice
+U179,sec4,probability,algebra,64,medium,worked example,revision
+U180,sec4,algebra,calculus,95,low,video,catch up
