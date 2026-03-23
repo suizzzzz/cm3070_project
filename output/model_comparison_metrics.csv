@@ -1,0 +1,9 @@
+model,k,users_evaluated,hit_rate,precision_at_k,recall_at_k,ndcg_at_k
+Popularity,5,180,0.0722,0.0144,0.0722,0.0489
+Popularity,10,180,0.1222,0.0122,0.1222,0.0648
+Content-Based,5,180,0.0333,0.0067,0.0333,0.0251
+Content-Based,10,180,0.1333,0.0133,0.1333,0.058
+Collaborative Filtering,5,180,0.0611,0.0122,0.0611,0.0413
+Collaborative Filtering,10,180,0.1444,0.0144,0.1444,0.0678
+Hybrid,5,180,0.0722,0.0144,0.0722,0.0543
+Hybrid,10,180,0.1111,0.0111,0.1111,0.0666

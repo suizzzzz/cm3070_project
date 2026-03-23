@@ -1,0 +1,21 @@
+model,learner_id,resource_id,popularity_score,title,topic,subtopic,difficulty,modality,content_score,cf_score,content_score_norm,cf_score_norm,hybrid_score
+Popularity,U001,R024,0.65170625,Angles - Notes 4,geometry,angles,beginner,notes,,,,,
+Popularity,U001,R001,0.6433,Linear Equations - Video 1,algebra,linear equations,intermediate,video,,,,,
+Popularity,U001,R052,0.6422826086956522,Trig Ratios - Worked Example 4,trigonometry,trig ratios,beginner,worked example,,,,,
+Popularity,U001,R079,0.6333,Applications Of Derivatives - Worked Example 3,calculus,applications of derivatives,beginner,worked example,,,,,
+Popularity,U001,R051,0.6298038461538462,Trig Ratios - Practice Set 3,trigonometry,trig ratios,beginner,practice set,,,,,
+Content-Based,U001,R120,,Standard Deviation - Notes 4,statistics,standard deviation,advanced,notes,0.5895393054625472,,,,
+Content-Based,U001,R116,,Box Plots - Worked Example 4,statistics,box plots,intermediate,worked example,0.4708346769216866,,,,
+Content-Based,U001,R113,,Box Plots - Quiz 1,statistics,box plots,intermediate,quiz,0.41376680216616935,,,,
+Content-Based,U001,R107,,Histograms - Practice Set 3,statistics,histograms,intermediate,practice set,0.35888657572517924,,,,
+Content-Based,U001,R065,,Differentiation - Notes 1,calculus,differentiation,beginner,notes,0.34517080538623496,,,,
+Collaborative Filtering,U001,R106,,Histograms - Quiz 2,statistics,histograms,intermediate,quiz,,0.6489027559840583,,,
+Collaborative Filtering,U001,R100,,Sample Space - Notes 4,probability,sample space,beginner,notes,,0.647240515555227,,,
+Collaborative Filtering,U001,R087,,Conditional Probability - Notes 3,probability,conditional probability,beginner,notes,,0.6469081253462542,,,
+Collaborative Filtering,U001,R062,,Limits - Video 2,calculus,limits,beginner,video,,0.6462847693520715,,,
+Collaborative Filtering,U001,R082,,Tree Diagrams - Video 2,probability,tree diagrams,beginner,video,,0.6456598070233942,,,
+Hybrid,U001,R120,,Standard Deviation - Notes 4,statistics,standard deviation,advanced,notes,0.5895393054625472,0.6249152211977301,1.0,0.7981460192803336,0.9192584077121334
+Hybrid,U001,R116,,Box Plots - Worked Example 4,statistics,box plots,intermediate,worked example,0.4708346769216866,0.6303317371696726,0.7358639299178551,0.8437257472643613,0.7790086568564576
+Hybrid,U001,R113,,Box Plots - Quiz 1,statistics,box plots,intermediate,quiz,0.41376680216616935,0.6377824239178509,0.6088791244292155,0.9064229269708911,0.7278966454458857
+Hybrid,U001,R106,,Histograms - Quiz 2,statistics,histograms,intermediate,quiz,0.3335656384284327,0.6489027559840583,0.43041919016971514,1.0,0.658251514101829
+Hybrid,U001,R107,,Histograms - Practice Set 3,statistics,histograms,intermediate,practice set,0.35888657572517924,0.627467514008588,0.4867621731735905,0.8196234436352318,0.619906681358247
